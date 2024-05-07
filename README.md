@@ -27,17 +27,18 @@ Make sure to configure the VPN connection between the client and server devices 
 
 ## Screenshots
 
-[Include screenshots of the running application here]
 
 ### Server Interface
+![server](https://github.com/rdgitwork/Logging-Service---Go-and-Python/assets/110233441/5e83f3d0-5372-46a9-ab13-fdb5b805eb20)
 
-![Server Interface](server_interface.png)
 
 ### Client Interface
+![client](https://github.com/rdgitwork/Logging-Service---Go-and-Python/assets/110233441/80b5e943-49fc-46a3-a67e-19e698878c3d)
 
-![Client Interface](client_interface.png)
 
 
+### Logs
+![log](https://github.com/rdgitwork/Logging-Service---Go-and-Python/assets/110233441/323d90dc-a077-43d0-b297-1fdc059a87a1)
 
 ---
 
